@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>883960F8-9ED6-44F3-AB54-0B9D96399738</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CargoTrace</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>599F0D9A-07F7-460E-9C2B-D3C0B38C336A</key>
+		<string>http://192.168.0.6/svn/freight_in_hand/CargoTrace</string>
+		<key>B2C350FA-E58E-4B8E-98AF-2F02178EE488</key>
+		<string>svn://svnserver/CSP_MMLSrc/GeoAlert/IPhoneSrc/GeoAlert/GeoBell_3.0/GeoBell_0529/GeoBell/FMDB</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CargoTrace.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>599F0D9A-07F7-460E-9C2B-D3C0B38C336A</key>
+		<string>../..</string>
+		<key>B2C350FA-E58E-4B8E-98AF-2F02178EE488</key>
+		<string>../../CargoTrace/Common/FMDB</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>599F0D9A-07F7-460E-9C2B-D3C0B38C336A</key>
+		<string>http://192.168.0.6/svn/freight_in_hand</string>
+		<key>B2C350FA-E58E-4B8E-98AF-2F02178EE488</key>
+		<string>svn://svnserver/CSP_MMLSrc</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://192.168.0.6/svn/freight_in_hand/CargoTrace/CargoTrace.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>599F0D9A-07F7-460E-9C2B-D3C0B38C336A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>CargoTrace</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>599F0D9A-07F7-460E-9C2B-D3C0B38C336A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CargoTrace</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2C350FA-E58E-4B8E-98AF-2F02178EE488</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FMDB</string>
+		</dict>
+	</array>
+</dict>
+</plist>

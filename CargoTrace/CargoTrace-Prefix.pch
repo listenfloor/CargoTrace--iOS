@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'CargoTrace' target in the 'CargoTrace' project
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_4_0
+#warning "This project uses features only available in iOS SDK 4.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import <QuartzCore/QuartzCore.h>
+    #import "QueryTraceUtil.h"
+    #import "CommonUtil.h"
+    #import "ExtendedClasses.h"
+    #import "AppDelegate.h"
+    #import "ActiveMaskView.h"
+    #import "SVProgressHUD.h"
+    #import "CustomAlertView.h"
+    #import "MobClick.h"
+#endif
